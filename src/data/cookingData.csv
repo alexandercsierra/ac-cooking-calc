@@ -1,0 +1,141 @@
+,name,price,ingPrice,profit,percentGained,ingredients
+,Mushroom Salad,1400,700,700,100%,"1× Round Mushroom, 1× Flat Mushroom, 1× Skinny Mushroom"
+,Champiñones al Ajillo,20040,16700,3340,20%,"1× Round Mushroom, 1× Flat Mushroom, 1× Skinny Mushroom, 1× Rare Mushroom"
+,Carpaccio di Marlin Blu,12000,10000,2000,20%,1× Blue Marlin
+,Barred-Knifejaw Carpaccio,6000,5000,1000,20%,1× Barred Knifejaw
+,Seafood Ajillo,5640,4700,940,20%,"1× Tiger Prawn, 1× Squid, 1× Scallop"
+,Seafood Pizza,4600,3830,770,20%,"3× Flour, 1× Tiger Prawn, 2× Manila Clam"
+,Pesce All'acqua Pazza,4140,3450,690,20%,"1× Red Snapper, 1× Tomato, 1× Manila Clam"
+,Carpaccio di Capesante,2880,2400,480,20%,2× Scallop
+,Mushroom Pizza,2860,1430,1430,100%,"3× Flour, 2× Round Mushroom, 2× Flat Mushroom"
+,Mushroom Curry,2660,1330,1330,100%,"3× Flour, 1× Round Mushroom, 1× Flat Mushroom, 1× Skinny Mushroom"
+,Pumpkin Pie,2630,1750,880,50%,"3× Flour, 2× Sugar, 2× Orange Pumpkin"
+,Tomato Curry,2520,1680,840,50%,"3× Flour, 3× Tomato"
+,Savory Bread,2520,1680,840,50%,"3× Flour, 1× Carrot, 1× Tomato, 1× Potato"
+,Pumpkin Curry,2520,1680,840,50%,"3× Flour, 3× Orange Pumpkin"
+,Potato Curry,2520,1680,840,50%,"3× Flour, 3× Potato"
+,Carrot-Tops Curry,2520,1680,840,50%,"3× Flour, 3× Carrot"
+,Fruit Pizza,2500,2730,-230,-8%,"3× Flour, 1× Apple, 1× Orange, 1× Pear, 1× Peach, 1× Cherry"
+,Mixed-Fruits Pie	,2500,2730,-230,-8%,"3× Flour, 1× Apple, 1× Orange, 1× Pear, 1× Peach, 1× Cherry"
+,Seafood Salad,2280,1900,380,20%,"1× Squid, 1× Sweet Shrimp"
+,Tomato Bagel Sandwich,2210,1470,740,50%,"2× Flour, 3× Tomato"
+,Pumpkin Bagel Sandwich,2210,1470,740,50%,"2× Flour, 3× Orange Pumpkin"
+,Potato Galette,2210,1470,740,50%,"2× Flour, 3× Potato"
+,Gnocchi di Zucca,2210,1470,740,50%,"2× Flour, 3× Orange Pumpkin"
+,Gnocchi di Patate,2210,1470,740,50%,"2× Flour, 3× Potato"
+,Gnocchi di Carote,2210,1470,740,50%,"2× Flour, 3× Carrot"
+,Carrot Bagel Sandwich,2210,1470,740,50%,"2× Whole-Wheat Flour, 3× Carrot"
+,Veggie Cookies,2210,1470,740,50%,"1× Flour, 1× Sugar, 1× Tomato, 1× Carrot, 1× Orange Pumpkin"
+,Veggie Cupcakes,2210,1470,740,50%,"1× Flour, 1× Sugar, 1× Tomato, 1× Carrot, 1× Potato"
+,Spaghetti Napolitan,2210,1890,320,17%,"3× Flour, 1× Tomato Puree"
+,Spaghetti Marinara,2210,1890,320,17%,"3× Flour, 1× Tomato Puree"
+,Mixed-Fruits Sandwich	,2180,1520,660,43%,"2× Flour, 1× Orange,  1× Pear, 1× Peach"
+,Mixed-Fruits Bagel Sandwich,2180,2520,-340,-13%,"2× Flour, 1× Apple, 1× Orange, 1× Pear, 1× Peach, 1× Cherry"
+,Fruit Scones,2180,2520,-340,-13%,"2× Flour, 1× Apple, 1× Orange, 1× Pear, 1× Peach, 1× Cherry"
+,Fruit-Topped Pancakes,2180,2520,-340,-13%,"2× Flour, 1× Apple, 1× Orange, 1× Pear, 1× Peach, 1× Cherry"
+,Mixed-Fruits Crepe,2180,2520,-340,-13%,"2× Flour, 1× Apple, 1× Orange, 1× Pear, 1× Peach, 1× Cherry"
+,Salad,2100,1400,700,50%," 1× Tomato, 1× Carrot, 1× Potato,1× Orange Pumpkin"
+,Pickled Veggies,2100,1400,700,50%,"1× Carrot, 1× Potato, 1× Tomato, 1× Orange Pumpkin"
+,Minestrone Soup,2100,1400,700,50%,"2× Tomato, 1× Potato, 1× Carrot"
+,Whole-Wheat Flour(×10),2100,1750,350,20%,5× Wheat
+,Sugar(×10),2100,1750,350,20%,5× Sugarcane
+,Flour(×10),2100,1750,350,20%,5× Wheat
+,Brown Sugar(×10),2100,1750,350,20%,5× Sugarcane
+,Coconut Pancakes,2010,1340,670,50%,"2× Flour, 2× Sugar, 2× Coconut"
+,Pizza Margherita,2000,1330,670,50%,"3× Flour, 2× Tomato"
+,Gratin,2000,1330,670,50%,"3× Flour, 2× Potato"
+,Carrot Scones,2000,1330,670,50%,"2× Whole-Wheat Flour, 1× Sugar, 2× Carrot"
+,Pumpkin Pound Cake,2000,1330,670,50%,"2× Flour, 1× Sugar, 2× Orange Pumpkin"
+,Pumpkin Scones,2000,1330,670,50%,"2× Whole-Wheat Flour, 1× Sugar, 2× Orange Pumpkin"
+,Apple Pie,1880,1250,630,50%,"3× Flour, 2× Sugar, 2× Apple"
+,Cherry Pie,1880,1250,630,50%,"3× Flour, 2× Sugar, 2× Cherry"
+,Orange Pie,1880,1250,630,50%,"3× Flour, 2× Sugar, 2× Orange"
+,Peach Pie,1880,1250,630,50%,"3× Flour, 2× Sugar, 2× Peach"
+,Pear Pie,1880,1250,630,50%,"3× Flour, 2× Sugar, 2× Pear"
+,Fruit Cupcakes,1870,2310,-440,-19%,"1× Flour, 1× Apple, 1× Orange, 1× Pear, 1× Peach, 1× Cherry"
+,Mixed-Fruits Tart	,1870,2310,-440,-19%,"1× Flour, 1× Apple, 1× Orange, 1× Pear, 1× Peach, 1× Cherry"
+,Mushroom Crepe,1840,920,920,100%,"2× Flour, 1× Round Mushroom, 1× Skinny Mushroom"
+,Spooky Cookies,1820,1610,210,13%,"1× Flour, 1× Orange Pumpkin, 1× Yellow Pumpkin, 1× White Pumpkin, 1× Green Pumpkin"
+,Veggie Sandwich,1680,1120,560,50%,"2× Flour, 1× Tomato, 1× Carrot"
+,Veggie Crepe,1680,1120,560,50%,"2× Flour, 1× Tomato, 1× Orange Pumpkin"
+,Cake Salé,1680,1120,560,50%,"2× Flour, 1× Carrot, 1× Potato"
+,Pumpkin Cupcakes,1680,1120,560,50%,"1× Flour, 1× Sugar, 2× Orange Pumpkin"
+,Fruit Salad,1550,2100,-550,-26%,"1× Apple, 1× Orange, 1× Pear, 1× Peach, 1× Cherry"
+,Jarred Bamboo Shoots,1500,750,750,100%,3× Bamboo Shoot
+,Olive-Flounder Meunière,1470,1220,250,20%,"1× Olive Flounder, 2× Flour"
+,Seaweed Soup,1440,1200,240,20%,2× Seaweed
+,Veggie Quiche,1370,910,460,51%,"1× Flour, 1× Potato, 1× Orange Pumpkin"
+,Potato Potage,1370,910,460,51%,"1× Flour, 2× Potato"
+,Carrot Potage,1370,910,460,51%,"1× Flour, 2× Carrot"
+,Squid-Ink Spaghetti,1360,1130,230,20%,"3× Flour, 1× Squid"
+,Squid-Ink Curry,1360,1130,230,20%,"3× Flour, 1× Squid"
+,Salmon Sandwich,1350,1120,230,21%,"2× Whole-Wheat Flour, 1× Salmon"
+,Salmon Bagel Sandwich,1350,1120,230,21%,"2× Flour, 1× Salmon"
+,Sautéed Olive Flounder	,1320,1100,220,20%,"1× Olive Flounder, 1× Skinny Mushroom"
+,Snack Bread,1260,840,420,50%,"3× Flour, 1× Sugar"
+,Bread Gratin,1260,840,420,50%,"2× Flour, 2× Whole-Wheat Flour"
+,Pancakes,1260,840,420,50%,"2× Flour, 2× Sugar"
+,Sugar Crepe,1260,840,420,50%,"2× Flour, 2× Sugar"
+,Tomato Puree,1260,1050,210,20%,3× Tomato
+,Tomates al Ajillo,1260,1050,210,20%,3× Tomato
+,Salade de Carottes Râpées,1260,1050,210,20%,3× Carrot
+,Salad-Stuffed Tomato,1260,1050,210,20%,3× Tomato
+,Pumpkin Soup,1260,1050,210,20%,3× Orange Pumpkin
+,Poke,1260,1050,210,20%,"1× Salmon, 1× Tomato"
+,French Fries,1260,1050,210,20%,3× Potato
+,Orange Pound Cake,1250,830,420,51%,"2× Flour, 1× Sugar, 2× Orange"
+,Sea-Bass Pie,1240,1030,210,20%,"3× Flour, 1× Sea Bass"
+,Mushroom Potage,1220,610,610,100%,"1× Flour, 1× Round Mushroom, 1× Flat Mushroom"
+,Jarred Mushrooms,1200,600,600,100%,2× Skinny Mushroom
+,Fish and Chips,1200,1000,200,20%,"2× Potato, 1× Dab"
+,Carrot Cake,1160,770,390,51%,"1× Flour, 1× Sugar, 1× Carrot"
+,Coconut Oil,1130,750,380,51%,3× Coconut
+,Coconut Pudding,1070,710,360,51%,"1× Sugar, 2× Coconut"
+,Clam Chowder,1020,510,510,100%,"1× Flour , 3× Manila Clam"
+,Coconut Cookies,1010,670,340,51%,"1× Flour, 1× Sugar, 1× Coconut"
+,Bamboo-Shoot Soup,1000,500,500,100%,2× Bamboo Shoot
+,Organic Bread,950,630,320,51%,3× Whole-Wheat Flour
+,Bread,950,630,320,51%,3× Flour
+,Roost Sablé Cookie,950,630,320,51%,"1× Flour, 2× Sugar"
+,Brown-Sugar Pound Cake,950,630,320,51%,"2× Flour, 1× Brown Sugar"
+,Frosted Cookies,950,630,320,51%,"1× Flour, 2× Sugar"
+,Frosted Pretzels,950,630,320,51%,"1× Flour, 2× Sugar"
+,Plain Scones,950,630,320,51%,"2× Flour, 1× Sugar"
+,Pound Cake,950,630,320,51%,"2× Flour, 1× Sugar"
+,Carpaccio di Salmone,840,700,140,20%,1× Salmon
+,Baked Potatoes,840,700,140,20%,2× Potato
+,Carrot Juice,840,700,140,20%,2× Carrot
+,Tomato Juice,840,700,140,20%,2× Tomato
+,Apple Tart,780,520,260,50%,"1× Flour, 1× Sugar, 1× Apple"
+,Cherry Tart,780,520,260,50%,"1× Flour, 1× Sugar, × Cherry"
+,Orange Tart,780,520,260,50%,"1× Flour, 1× Sugar, 1× Orange"
+,Peach Tart	,780,520,260,50%,"1× Flour, 1× Sugar, 1× Peach"
+,Pear Tart,780,520,260,50%,"1× Flour, 1× Sugar, 1× Pear"
+,Coconut Milk,750,500,250,50%,2× Coconut
+,Turnip Salad,680,900,-220,-24%,"1× 10 Turnips, 1× Tomato"
+,Pull-Apart Bread,630,420,210,50%,2× Flour
+,Brown-Sugar Cupcakes,630,420,210,50%,"1× Whole-Wheat Flour, 1× Brown Sugar"
+,Cookies,630,420,210,50%,"1× Flour, 1× Sugar"
+,Plain Cupcakes,630,420,210,50%,"1× Flour, 1× Sugar"
+,Pretzels,630,420,210,50%,"1× Flour, 1× Sugar"
+,Thumbprint Jam Cookies,630,420,210,50%,"1× Flour, 1× Sugar"
+,Anchoas al Ajillo,600,400,200,50%,2× Anchovy
+,Aji Fry,540,360,180,50%,"1× Horse Mackerel, 1× Flour"
+,Grilled Sea Bass with Herbs,540,450,90,20%,"1× Sea Bass, 5× Clump of Weeds"
+,Pear Jam,450,300,150,50%,3× Pear
+,Peach Jam,450,300,150,50%,3× Peach
+,Orange Marmalade,450,300,150,50%,3× Orange
+,Cherry Jam,450,300,150,50%,3× Cherry
+,Apple Jam,450,300,150,50%,3× Apple
+,Kabu Ankake,450,900,-450,-50%,1× 10 Turnips
+,Karei no Nitsuke,360,300,60,20%,1× Dab
+,Apple Smoothie,300,200,100,50%,2× Apple
+,Cherry Smoothie,300,200,100,50%,2× Cherry
+,Orange Smoothie,300,200,100,50%,2× Orange
+,Peach Smoothie,300,200,100,50%,2× Peach
+,Pear Smoothie,300,200,100,50%,2× Pear
+,Apple Jelly,300,200,100,50%,2× Apple
+,Cherry Jelly,300,200,100,50%,2× Cherry
+,Orange Jelly,300,200,100,50%,2× Orange
+,Peach Jelly,300,200,100,50%,2× Peach
+,Pear Jelly,300,200,100,50%,2× Pear

@@ -1,0 +1,62 @@
+#root {
+  /* max-width: 1280px; */
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* padding: 2rem; */
+  text-align: center;
+  color: #827052;
+}
+
+
+.bt {
+  color: green;
+}
+
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.w100 {
+  width: 100%;
+}
+
+.rb {
+  border: 1px solid red;
+}
+
+.f {
+  display: flex;
+}
+
+.fc {
+  display: flex;
+  flex-direction: column;
+}
+
+.jcc {
+  justify-content: center;
+}
+
+.aic {
+  align-items: center;
+}
+
+.m10 {
+  margin: 10px;
+}
+
+.mv10 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.bggrey {
+  background-color: grey;
+}
